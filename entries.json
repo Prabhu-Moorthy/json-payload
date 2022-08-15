@@ -1,70 +1,14 @@
 {
-    timeline: [
+    "timeline": [
       {
-        moved: 0,
-        ringId: 'adopt',
-        date: new Date('2020-08-06'),
-      },
-    ],
-    url: '#',
-    key: 'databricks',
-    id: 'databricks',
-    title: 'Databricks',
-    quadrant:'techniques',
-},
-{
-    timeline: [
-      {
-        moved: 0,
-        ringId: 'adopt',
-        date: new Date('2020-08-06'),
-      },
-    ],
-    url: '#',
-    key: 'datafactory',
-    id: 'datafactory',
-    title: 'Data Factory',
-    quadrant:'techniques',
-},
-{
-    timeline: [
-      {
-        moved: 0,
-        ringId: 'adopt',
-        date: new Date('2020-08-06'),
-      },
-    ],
-    url: '#',
-    key: 'datavault',
-    id: 'datavault',
-    title: 'Data Vault',
-    quadrant:'techniques',
-},
-
-    timeline: [
-      {
-        moved: 0,
-        ringId: 'adopt',
-        date: new Date('2020-08-06'),
-      },
-    ],
-    url: '#',
-    key: 'openapi',
-    id: 'openapi',
-    title: 'Open API Specification',
-    quadrant:'techniques',
-},
-{
-    timeline: [
-      {
-        moved: 0,
-        ringId: 'trial',
-        date: new Date('2020-08-06'),
-      },
-    ],
-    url: '#',
-    key: 'microfrontend',
-    id: 'microfrontend',
-    title: 'Micro Frontends',
-    quadrant:'techniques',
+      "moved": "0",
+      "ringId": "adopt",
+      "date": "2020-08-06"
+      }
+      ],
+    "url": "#",
+    "key": "databricks",
+    "id": "databricks",
+    "title": "Databricks",
+    "quadrant":"techniques"
 }
